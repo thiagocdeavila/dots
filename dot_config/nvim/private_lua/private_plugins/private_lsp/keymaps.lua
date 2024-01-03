@@ -1,7 +1,7 @@
 local M = {}
 
 function M.on_attach(_, bufnr)
-  local map = function(keys, func, opts)
+  local function map(keys, func, opts)
     if opts.desc then
       opts.desc = '(LSP) ' .. opts.desc
     end
