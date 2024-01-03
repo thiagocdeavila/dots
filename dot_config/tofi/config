@@ -1,0 +1,24 @@
+font-size = 14
+
+# Window theming
+width = 720
+height = 280
+background-color = #181616
+outline-width = 0
+border-width = 2
+border-color = #0d0c0c
+
+# Selection text
+selection-color = #8ba4b0
+
+# Prompt
+prompt-background = #8a9a7b
+prompt-background-padding = 0,8,0,8
+prompt-text = " search: "
+prompt-padding = 16
+
+# Input
+input-color = #c5c9c5
+
+# Result
+default-result-color = #c5c9c5
