@@ -10,6 +10,7 @@ opt.autoindent = true
 opt.smartindent = true
 opt.cmdheight = 1
 opt.laststatus = 3
+opt.cursorline = true
 opt.expandtab = true
 opt.scrolloff = 4
 opt.shiftwidth = 2

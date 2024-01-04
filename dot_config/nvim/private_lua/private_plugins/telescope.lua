@@ -82,6 +82,7 @@ return {
 
       opts.defaults = {
         wrap_results = true,
+        prompt_prefix = '',
         layout_strategy = 'horizontal',
         layout_config = {
           prompt_position = 'top',
